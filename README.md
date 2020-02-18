@@ -3,7 +3,7 @@ List of files to be shared in the 5th session of the TSAI
 
 Target:
 
-Included BatchNorm in this model.
+Included BatchNorm in this model and included the 3*3 kernel as the last kernel.
 
 Results:
 Parameters: 6.9k
