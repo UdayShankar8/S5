@@ -72,4 +72,19 @@ Analysis:
 The Model is good. 
 if the model is pushed further, it will be able to reach the target of 99.4% accuracy
 
+EVA4S5F5:
+
+Target:
+
+Introduced random rotation by 7 degress 
+
+Results:
+Parameters: 7.6k
+Best Train Accuracy: 99.20%
+Best Test Accuracy: 99.34%
+Epochs - 15
+Final Receptive Field Calculated - 23
+
+Analysis:
+The Model is good. The Model is underfitting, we are training hard on our data 
 
