@@ -64,7 +64,7 @@ Included BatchNorm and reduced Drouput value from 0.1 to 0.01. Included the 3*3 
 Results:
 Parameters: 7.6k
 Best Train Accuracy: 99.45%
-Best Test Accuracy: 98.31%
+Best Test Accuracy: 99.31%
 Epochs - 15
 Final Receptive Field Calculated - 23
 
